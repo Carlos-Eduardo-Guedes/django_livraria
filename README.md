@@ -68,7 +68,7 @@ virtualenv env
 Criando o seu ambiente virtual no Windows 
 
 ```python
-python -m virtualenv env
+python -m venv env
 ```
 
 Criando seu ambiente virtual no MacOS
